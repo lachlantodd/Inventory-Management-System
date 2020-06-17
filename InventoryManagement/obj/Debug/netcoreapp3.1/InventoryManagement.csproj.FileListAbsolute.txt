@@ -1,0 +1,26 @@
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.exe
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.deps.json
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.json
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.dev.json
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfo.cs
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\Lachlan\OneDrive - Queensland University of Technology\Semester 2\Week B\IFN564\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.genruntimeconfig.cache
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.exe
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.deps.json
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.json
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.runtimeconfig.dev.json
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\bin\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfoInputs.cache
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.AssemblyInfo.cs
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.dll
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.pdb
+C:\Users\Lachlan\Desktop\Assignment\InventoryManagement\obj\Debug\netcoreapp3.1\InventoryManagement.genruntimeconfig.cache
